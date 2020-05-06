@@ -1,0 +1,19 @@
+react router
+- Ramda
+- Lodash
+- react styles
+    - glamoours
+    - styled components
+    - css modules
+- Gatsby
+- Next.js
+- Material-ui
+- reselect
+- Redux-Saga (asynchronous)
+- Immutable.js
+
+# bundeling
+- parcel
+- webpack
+- rollup.js
+
